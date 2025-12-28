@@ -186,7 +186,7 @@ namespace TG
                 var ServerPath = string.Format("http://40.117.187.220/BBClient/Print/{0}", FileName);
 
                 TGEntity ent = clsData.Data;
-                SendWhatsup.SendSMSAndImage(ent.MobileNo, ServerPath, ent.TokenNumber, ent.TokenOrderID);
+                //SendWhatsup.SendSMSAndImage(ent.MobileNo, ServerPath, ent.TokenNumber, ent.TokenOrderID);
             }
             catch (Exception ex)
             {

@@ -254,7 +254,6 @@
     <Compile Include="BL\clsErrorLog.cs" />
     <Compile Include="BL\PayTm\PaymentCheck.cs" />
     <Compile Include="BL\PayTm\QRCode.cs" />
-    <Compile Include="BL\SendWhatsup.cs" />
     <Compile Include="Dashboard.aspx.cs">
       <DependentUpon>Dashboard.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
