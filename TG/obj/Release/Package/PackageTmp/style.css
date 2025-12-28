@@ -1,0 +1,12 @@
+/* --- [Master Stylesheet] ----
+-------------------------- */
+@import url('css/font-style.css');/*client font css*/
+@import 'css/bootstrap.min.css';
+@import 'css/animate.css';/*animation css*/
+@import 'css/font-awesome.min.css';
+@import 'css/themify-icons.css';
+@import 'css/ionicons.min.css';
+@import 'css/layout.css';/*theme css*/
+@import 'css/theme.css';/*layout css*/
+
+

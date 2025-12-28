@@ -1,0 +1,38 @@
+@font-face {
+    font-family: 'Neo Tech Alt';
+    src: url('../fonts/NeoTechAlt.eot');
+    src: url('../fonts/NeoTechAlt.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/NeoTechAlt.woff2') format('woff2'),
+        url('../fonts/NeoTechAlt.woff') format('woff'),
+        url('../fonts/NeoTechAlt.ttf') format('truetype'),
+        url('../fonts/NeoTechAlt.svg#NeoTechAlt') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/*arabic font*/
+@font-face {
+    font-family: 'AXtManal';
+    src: url('../fonts/AXtManal.eot');
+    src: url('../fonts/AXtManal.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/AXtManal.woff2') format('woff2'),
+        url('../fonts/AXtManal.woff') format('woff'),
+        url('../fonts/AXtManal.ttf') format('truetype'),
+        url('../fonts/AXtManal.svg#AXtManal') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'AXtManalBold';
+    src: url('../fonts/AXtManalBold.eot');
+    src: url('../fonts/AXtManalBold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/AXtManalBold.woff2') format('woff2'),
+        url('../fonts/AXtManalBold.woff') format('woff'),
+        url('../fonts/AXtManalBold.ttf') format('truetype'),
+        url('../fonts/AXtManalBold.svg#AXtManalBold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+

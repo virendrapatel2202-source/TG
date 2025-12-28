@@ -1,0 +1,678 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>D:\OtherProjects\BB\WebAPICommon\TGPublished</_PublishTargetUrl>
+    <History>True|2023-10-16T10:34:47.6132278Z;True|2023-10-16T15:54:54.9980867+05:30;False|2023-10-16T15:54:13.7083902+05:30;False|2023-10-16T15:53:40.6860863+05:30;True|2022-09-08T16:19:52.3804520+05:30;True|2022-09-08T16:17:17.4057284+05:30;True|2022-09-08T16:06:15.5800355+05:30;True|2022-04-11T10:11:45.5391307+05:30;True|2022-04-11T10:08:06.5877465+05:30;True|2022-04-11T09:58:09.8991944+05:30;True|2022-03-22T11:58:25.6871893+05:30;True|2022-03-19T16:35:25.6642389+05:30;True|2022-03-04T16:21:40.1359662+05:30;True|2022-03-04T16:13:35.4364083+05:30;True|2022-03-04T11:11:07.7585835+05:30;True|2022-03-03T16:36:15.5092400+05:30;True|2022-03-03T08:02:14.3569057+05:30;True|2022-02-15T13:21:57.6626479+05:30;True|2022-02-15T12:56:01.6484061+05:30;True|2022-02-15T12:09:21.7102297+05:30;True|2022-02-15T12:07:13.3127511+05:30;True|2022-02-04T16:11:54.2540946+05:30;True|2022-01-27T13:59:23.6005165+05:30;True|2022-01-06T17:39:51.6686179+05:30;True|2022-01-06T17:23:08.0329838+05:30;True|2022-01-06T17:19:33.2433729+05:30;True|2022-01-06T17:16:46.6573883+05:30;True|2022-01-06T17:10:37.3680658+05:30;True|2022-01-06T16:11:49.5079072+05:30;True|2022-01-06T07:57:22.5901266+05:30;True|2021-12-26T08:13:32.7370852+05:30;True|2021-12-23T13:39:17.8408332+05:30;True|2021-12-23T13:30:22.3710772+05:30;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="AspImages.aspx">
+      <publishTime>04/01/2022 17:08:22</publishTime>
+    </File>
+    <File Include="bin/ClassLibraryProject.dll">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="bin/ClassLibraryProject.dll.config">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="bin/ClassLibraryProject.pdb">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="bin/Dapper.dll">
+      <publishTime>03/11/2021 19:37:30</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.dll">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.SqlServer.dll">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="bin/Microsoft.IdentityModel.Logging.dll">
+      <publishTime>10/01/2017 20:52:58</publishTime>
+    </File>
+    <File Include="bin/Microsoft.IdentityModel.Tokens.dll">
+      <publishTime>10/01/2017 20:53:02</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="bin/PaytmChecksum.dll">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe.config">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.rsp">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.exe">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.exe.config">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.rsp">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Managed.Core.targets">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.AppContext.dll">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Console.dll">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Diagnostics.FileVersionInfo.dll">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Diagnostics.StackTrace.dll">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.Compression.dll">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.dll">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.Primitives.dll">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.Pipes.AccessControl.dll">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.Pipes.dll">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.AccessControl.dll">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Claims.dll">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.Algorithms.dll">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.Encoding.dll">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.Primitives.dll">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.X509Certificates.dll">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Principal.Windows.dll">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Text.Encoding.CodePages.dll">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.ValueTuple.dll">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.ReaderWriter.dll">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.XmlDocument.dll">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.XPath.dll">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.XPath.XDocument.dll">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe.config">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.rsp">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="bin/System.IdentityModel.Tokens.Jwt.dll">
+      <publishTime>10/01/2017 20:53:06</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.Formatting.dll">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.dll">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.WebHost.dll">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="bin/TG.dll">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="bin/TG.pdb">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="bin/Twilio.dll">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="css/animate.css">
+      <publishTime>07/10/2021 13:04:43</publishTime>
+    </File>
+    <File Include="css/bootstrap.min.css">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="css/bootstrap.min4.css">
+      <publishTime>07/10/2021 13:04:43</publishTime>
+    </File>
+    <File Include="css/font-awesome.min.css">
+      <publishTime>07/10/2021 13:04:43</publishTime>
+    </File>
+    <File Include="css/font-style.css">
+      <publishTime>07/10/2021 13:04:43</publishTime>
+    </File>
+    <File Include="css/ionicons.min.css">
+      <publishTime>07/10/2021 13:04:43</publishTime>
+    </File>
+    <File Include="css/layout.css">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="css/theme.css">
+      <publishTime>07/10/2021 13:04:43</publishTime>
+    </File>
+    <File Include="css/themify-icons.css">
+      <publishTime>07/10/2021 13:04:43</publishTime>
+    </File>
+    <File Include="Dashboard.aspx">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="F.aspx">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="FD.aspx">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="FD2.aspx">
+      <publishTime>02/04/2022 10:03:28</publishTime>
+    </File>
+    <File Include="FD3.aspx">
+      <publishTime>02/04/2022 10:08:29</publishTime>
+    </File>
+    <File Include="fonts/AXtManal.eot">
+      <publishTime>07/10/2021 13:04:43</publishTime>
+    </File>
+    <File Include="fonts/AXtManal.svg">
+      <publishTime>07/10/2021 13:04:43</publishTime>
+    </File>
+    <File Include="fonts/AXtManal.ttf">
+      <publishTime>07/10/2021 13:04:43</publishTime>
+    </File>
+    <File Include="fonts/AXtManal.woff">
+      <publishTime>07/10/2021 13:04:43</publishTime>
+    </File>
+    <File Include="fonts/AXtManal.woff2">
+      <publishTime>07/10/2021 13:04:43</publishTime>
+    </File>
+    <File Include="fonts/AXtManalBold.eot">
+      <publishTime>07/10/2021 13:04:43</publishTime>
+    </File>
+    <File Include="fonts/AXtManalBold.svg">
+      <publishTime>07/10/2021 13:04:43</publishTime>
+    </File>
+    <File Include="fonts/AXtManalBold.ttf">
+      <publishTime>07/10/2021 13:04:43</publishTime>
+    </File>
+    <File Include="fonts/AXtManalBold.woff">
+      <publishTime>07/10/2021 13:04:43</publishTime>
+    </File>
+    <File Include="fonts/AXtManalBold.woff2">
+      <publishTime>07/10/2021 13:04:43</publishTime>
+    </File>
+    <File Include="fonts/fontawesome-webfont.eot">
+      <publishTime>07/10/2021 13:04:43</publishTime>
+    </File>
+    <File Include="fonts/fontawesome-webfont.svg">
+      <publishTime>07/10/2021 13:04:43</publishTime>
+    </File>
+    <File Include="fonts/fontawesome-webfont.ttf">
+      <publishTime>07/10/2021 13:04:43</publishTime>
+    </File>
+    <File Include="fonts/fontawesome-webfont.woff">
+      <publishTime>07/10/2021 13:04:43</publishTime>
+    </File>
+    <File Include="fonts/fontawesome-webfont.woff2">
+      <publishTime>07/10/2021 13:04:43</publishTime>
+    </File>
+    <File Include="fonts/FontAwesome.otf">
+      <publishTime>07/10/2021 13:04:43</publishTime>
+    </File>
+    <File Include="fonts/ionicons.eot">
+      <publishTime>07/10/2021 13:04:43</publishTime>
+    </File>
+    <File Include="fonts/ionicons.svg">
+      <publishTime>07/10/2021 13:04:43</publishTime>
+    </File>
+    <File Include="fonts/ionicons.ttf">
+      <publishTime>07/10/2021 13:04:43</publishTime>
+    </File>
+    <File Include="fonts/ionicons.woff">
+      <publishTime>07/10/2021 13:04:43</publishTime>
+    </File>
+    <File Include="fonts/NeoTechAlt.eot">
+      <publishTime>07/10/2021 13:04:43</publishTime>
+    </File>
+    <File Include="fonts/NeoTechAlt.svg">
+      <publishTime>07/10/2021 13:04:43</publishTime>
+    </File>
+    <File Include="fonts/NeoTechAlt.ttf">
+      <publishTime>07/10/2021 13:04:43</publishTime>
+    </File>
+    <File Include="fonts/NeoTechAlt.woff">
+      <publishTime>07/10/2021 13:04:43</publishTime>
+    </File>
+    <File Include="fonts/NeoTechAlt.woff2">
+      <publishTime>07/10/2021 13:04:43</publishTime>
+    </File>
+    <File Include="fonts/themify.eot">
+      <publishTime>07/10/2021 13:04:43</publishTime>
+    </File>
+    <File Include="fonts/themify.svg">
+      <publishTime>07/10/2021 13:04:43</publishTime>
+    </File>
+    <File Include="fonts/themify.ttf">
+      <publishTime>07/10/2021 13:04:43</publishTime>
+    </File>
+    <File Include="fonts/themify.woff">
+      <publishTime>07/10/2021 13:04:43</publishTime>
+    </File>
+    <File Include="img/4E81D768.png">
+      <publishTime>07/10/2021 13:04:43</publishTime>
+    </File>
+    <File Include="img/aurionpro-logo.png">
+      <publishTime>07/10/2021 13:04:43</publishTime>
+    </File>
+    <File Include="img/bg - Copy.jpg">
+      <publishTime>07/10/2021 13:04:43</publishTime>
+    </File>
+    <File Include="img/bg.jpg">
+      <publishTime>07/10/2021 13:04:43</publishTime>
+    </File>
+    <File Include="img/bg2.jpg">
+      <publishTime>07/10/2021 13:04:43</publishTime>
+    </File>
+    <File Include="img/card-icon.png">
+      <publishTime>07/10/2021 13:04:43</publishTime>
+    </File>
+    <File Include="img/card.png">
+      <publishTime>07/10/2021 13:04:43</publishTime>
+    </File>
+    <File Include="img/chk-icon.png">
+      <publishTime>07/10/2021 13:04:43</publishTime>
+    </File>
+    <File Include="img/credit-card.gif">
+      <publishTime>07/10/2021 13:04:43</publishTime>
+    </File>
+    <File Include="img/db-icon.png">
+      <publishTime>07/10/2021 13:04:43</publishTime>
+    </File>
+    <File Include="img/go-green.png">
+      <publishTime>07/10/2021 13:04:43</publishTime>
+    </File>
+    <File Include="img/info-icon.png">
+      <publishTime>07/10/2021 13:04:43</publishTime>
+    </File>
+    <File Include="img/logo.png">
+      <publishTime>05/10/2021 16:13:23</publishTime>
+    </File>
+    <File Include="img/network-icon.png">
+      <publishTime>07/10/2021 13:04:43</publishTime>
+    </File>
+    <File Include="img/PayTm.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="img/photo.png">
+      <publishTime>07/10/2021 13:04:43</publishTime>
+    </File>
+    <File Include="img/printer-icon.png">
+      <publishTime>07/10/2021 13:04:43</publishTime>
+    </File>
+    <File Include="img/small-logo.png">
+      <publishTime>09/10/2021 14:12:05</publishTime>
+    </File>
+    <File Include="img/spinner.gif">
+      <publishTime>07/03/2022 11:34:00</publishTime>
+    </File>
+    <File Include="img/star-off.svg">
+      <publishTime>07/10/2021 13:04:43</publishTime>
+    </File>
+    <File Include="img/star-on.svg">
+      <publishTime>07/10/2021 13:04:43</publishTime>
+    </File>
+    <File Include="img/system-icon.png">
+      <publishTime>07/10/2021 13:04:43</publishTime>
+    </File>
+    <File Include="img/tabInsertCard.gif">
+      <publishTime>07/10/2021 13:04:43</publishTime>
+    </File>
+    <File Include="img/tkt.png">
+      <publishTime>07/10/2021 13:04:43</publishTime>
+    </File>
+    <File Include="img/white_arrow.png">
+      <publishTime>07/10/2021 13:04:43</publishTime>
+    </File>
+    <File Include="js/active.js">
+      <publishTime>07/10/2021 13:04:43</publishTime>
+    </File>
+    <File Include="js/bootstrap-input-spinner.js">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="js/bootstrap.min.js">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="js/bootstrap.min4.js">
+      <publishTime>07/10/2021 13:04:43</publishTime>
+    </File>
+    <File Include="js/dashboard.js">
+      <publishTime>11/01/2022 10:24:42</publishTime>
+    </File>
+    <File Include="js/flipclock.js">
+      <publishTime>07/10/2021 13:04:43</publishTime>
+    </File>
+    <File Include="js/footer-reveal.min.js">
+      <publishTime>07/10/2021 13:04:43</publishTime>
+    </File>
+    <File Include="js/jPages.js">
+      <publishTime>07/10/2021 13:04:43</publishTime>
+    </File>
+    <File Include="js/jquery-2.2.4.min.js">
+      <publishTime>07/10/2021 13:04:43</publishTime>
+    </File>
+    <File Include="js/plugins.js">
+      <publishTime>07/10/2021 13:04:43</publishTime>
+    </File>
+    <File Include="keypad_files/jkeyboard.css">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="keypad_files/jkeyboard.js">
+      <publishTime>03/03/2022 09:35:03</publishTime>
+    </File>
+    <File Include="keypad_files/jquery-1.10.1.min.js">
+      <publishTime>07/10/2021 13:04:43</publishTime>
+    </File>
+    <File Include="L.aspx">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="M.aspx">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Master.Master">
+      <publishTime>07/03/2022 12:15:33</publishTime>
+    </File>
+    <File Include="N.aspx">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="NP.aspx">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="P.aspx">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="PackagesBuy.aspx">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="pagination/main.js">
+      <publishTime>07/10/2021 13:04:43</publishTime>
+    </File>
+    <File Include="pagination/modernizr.js">
+      <publishTime>07/10/2021 13:04:43</publishTime>
+    </File>
+    <File Include="pagination/velocity.min.js">
+      <publishTime>07/10/2021 13:04:43</publishTime>
+    </File>
+    <File Include="pagination/velocity.ui.min.js">
+      <publishTime>07/10/2021 13:04:43</publishTime>
+    </File>
+    <File Include="Pay.aspx">
+      <publishTime>06/01/2022 16:19:40</publishTime>
+    </File>
+    <File Include="S.aspx">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Scripts/Content/themes/base/accordion.css">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Scripts/Content/themes/base/all.css">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Scripts/Content/themes/base/autocomplete.css">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Scripts/Content/themes/base/base.css">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Scripts/Content/themes/base/button.css">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Scripts/Content/themes/base/core.css">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Scripts/Content/themes/base/datepicker.css">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Scripts/Content/themes/base/dialog.css">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Scripts/Content/themes/base/draggable.css">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Scripts/Content/themes/base/images/ui-bg_flat_0_aaaaaa_40x100.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Scripts/Content/themes/base/images/ui-bg_flat_75_ffffff_40x100.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Scripts/Content/themes/base/images/ui-bg_glass_55_fbf9ee_1x400.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Scripts/Content/themes/base/images/ui-bg_glass_65_ffffff_1x400.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Scripts/Content/themes/base/images/ui-bg_glass_75_dadada_1x400.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Scripts/Content/themes/base/images/ui-bg_glass_75_e6e6e6_1x400.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Scripts/Content/themes/base/images/ui-bg_glass_95_fef1ec_1x400.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Scripts/Content/themes/base/images/ui-bg_highlight-soft_75_cccccc_1x100.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Scripts/Content/themes/base/images/ui-icons_222222_256x240.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Scripts/Content/themes/base/images/ui-icons_2e83ff_256x240.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Scripts/Content/themes/base/images/ui-icons_444444_256x240.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Scripts/Content/themes/base/images/ui-icons_454545_256x240.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Scripts/Content/themes/base/images/ui-icons_555555_256x240.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Scripts/Content/themes/base/images/ui-icons_777620_256x240.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Scripts/Content/themes/base/images/ui-icons_777777_256x240.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Scripts/Content/themes/base/images/ui-icons_888888_256x240.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Scripts/Content/themes/base/images/ui-icons_cc0000_256x240.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Scripts/Content/themes/base/images/ui-icons_cd0a0a_256x240.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Scripts/Content/themes/base/images/ui-icons_ffffff_256x240.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Scripts/Content/themes/base/jquery-ui.css">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Scripts/Content/themes/base/jquery-ui.min.css">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Scripts/Content/themes/base/menu.css">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Scripts/Content/themes/base/progressbar.css">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Scripts/Content/themes/base/resizable.css">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Scripts/Content/themes/base/selectable.css">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Scripts/Content/themes/base/selectmenu.css">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Scripts/Content/themes/base/slider.css">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Scripts/Content/themes/base/sortable.css">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Scripts/Content/themes/base/spinner.css">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Scripts/Content/themes/base/tabs.css">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Scripts/Content/themes/base/theme.css">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Scripts/Content/themes/base/tooltip.css">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Scripts/jquery-3.1.1.js">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Scripts/jquery-3.1.1.min.js">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Scripts/jquery-3.1.1.min.map">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Scripts/jquery-3.1.1.slim.js">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Scripts/jquery-3.1.1.slim.min.js">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Scripts/jquery-3.1.1.slim.min.map">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Scripts/jquery-ui-1.12.1.js">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Scripts/jquery-ui-1.12.1.min.js">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.js">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.min.js">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.unobtrusive.js">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.unobtrusive.min.js">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Scripts/kitfont.js">
+      <publishTime>04/02/2022 16:48:31</publishTime>
+    </File>
+    <File Include="style.css">
+      <publishTime>07/10/2021 13:04:43</publishTime>
+    </File>
+    <File Include="systemHealth.html">
+      <publishTime>07/10/2021 13:04:43</publishTime>
+    </File>
+    <File Include="Tariff/background1.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Tariff/Tariff.html">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="ThankYou.aspx">
+      <publishTime>05/03/2022 08:24:26</publishTime>
+    </File>
+    <File Include="ValuesController1.cs">
+      <publishTime>10/17/2023 15:50:00</publishTime>
+    </File>
+    <File Include="W.aspx">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,9 @@
+
+
+8:48 AM: SMSAuthenticate
+
+
+8:48 AM: URL to Sendhttp://40.117.187.220/BBClient/Print/19-Dec-2025_BB002.png
+
+
+8:48 AM: WhatsupSMSAuthenticate

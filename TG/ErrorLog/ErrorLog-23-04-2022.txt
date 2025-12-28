@@ -1,0 +1,36 @@
+
+
+1:34 PM: SMSAuthenticate
+
+
+1:34 PM: URL to Sendhttp://40.117.187.220/BBClient/Print/23-Apr-2022_BB007.png
+
+
+1:34 PM: WhatsupSMSAuthenticate
+
+
+1:35 PM: SMSAuthenticate
+
+
+1:35 PM: URL to Sendhttp://40.117.187.220/BBClient/Print/23-Apr-2022_BB007(2).png
+
+
+1:36 PM: WhatsupSMSAuthenticate
+
+
+2:21 PM: SMSAuthenticate
+
+
+2:21 PM: URL to Sendhttp://40.117.187.220/BBClient/Print/23-Apr-2022_BB009.png
+
+
+2:21 PM: WhatsupSMSAuthenticate
+
+
+2:30 PM: SMSAuthenticate
+
+
+2:30 PM: URL to Sendhttp://40.117.187.220/BBClient/Print/23-Apr-2022_BB010.png
+
+
+2:30 PM: WhatsupSMSAuthenticate

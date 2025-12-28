@@ -1,0 +1,118 @@
+.keypad {
+    background: transparent;
+    padding: 0;
+    width: 100%;
+    margin: 0 auto 20px;
+    text-align: center;
+}
+.jkeyboard {
+    display: inline-block;
+}
+.jkeyboard, .jkeyboard .jline, .jkeyboard .jline ul {
+    display: block;
+    margin: 0;
+    padding: 0;
+}
+.jkeyboard .jline {
+    text-align: center;
+    margin-left: -14px;
+}
+.jkeyboard .jline ul li {
+    font-size: 28px;
+    display: inline-block;
+    margin: 10px 0 1px 14px;
+    color: #fff;
+    border-radius: 5px;
+    font-weight: bold;
+    width: 8%;
+    height: 60px;
+    box-sizing: border-box;
+    text-align: center;
+    line-height: 56px;
+    overflow: hidden;
+    cursor: pointer;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: -moz-none;
+    -ms-user-select: none;
+    user-select: none;
+    background: #0e99ff;
+    box-shadow: inset 4px 4px 4px #020d1a;
+    border: 3px solid #fff;
+    text-shadow: 1px 1px 1px #072156;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+.jkeyboard .jline ul li.uppercase {
+    text-transform: uppercase;
+}
+.jkeyboard .jline ul li:hover, .jkeyboard .jline ul li:active {
+    background-color: #000;
+    color: #fff;
+    text-shadow: 1px 1px 1px #000;
+}
+.jkeyboard .jline .return {
+    width: 135px;
+}
+.jkeyboard .jline .space {
+    width: 456px;
+}
+/*.jkeyboard .jline .numeric_switch {
+  width: 84px;
+}*/
+.jkeyboard .jline .layout_switch:before {
+    font-family: FontAwesome;
+    content: "\f11c";
+}
+.jkeyboard .jline .shift:before {
+    font-family: FontAwesome;
+    content: "\f062";
+}
+.jkeyboard .jline .backspace:before {
+    font-family: FontAwesome;
+    content: "\f060";
+}
+/***************************************new css added***************************************/
+.keypad .input {
+    padding: 15px 20px;
+    background: rgba(182, 255, 155, 0.8);
+    width: 400px;
+    color: #000;
+    border: 0;
+    font-size: 21px;
+    box-shadow: 0 0 50px #02081d;
+    letter-spacing: 1px;
+}
+
+.num-keypad .jkeyboard .jline ul li {
+    font-size: 28px;
+    display: inline-block;
+    margin: 10px 0 1px 14px;
+    color: #111;
+    border-radius: 20px 0 20px 0;
+    font-weight: bold;
+    width: 100px;
+    height: 90px;
+    box-sizing: border-box;
+    text-align: center;
+    line-height: 78px;
+    overflow: hidden;
+    cursor: pointer;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: -moz-none;
+    -ms-user-select: none;
+    user-select: none;
+    background: #dedede;
+    box-shadow: inset 4px 4px 4px #6e85a1;
+    border: 3px solid #fff;
+    text-shadow: 1px 1px 1px #072156;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+.num-keypad .jkeyboard .jline ul li:hover, .num-keypad .jkeyboard .jline ul li:focus {
+    background-color: #000;
+    color: #fff;
+    text-shadow: 1px 1px 1px #000;
+    box-shadow: none;
+}
